@@ -1,6 +1,6 @@
 # Laravel Todo API
 
-This is a simple Laravel-based API project for managing a Todo application. It includes user registration, authentication, and CRUD operations for todos. The project uses Laravel Sanctum for API authentication.
+This is a simple Laravel-based API project for managing a Todo application. It includes user authentication, and CRUD operations for todos. The project uses Laravel Sanctum for API authentication.
 
 ## Table of Contents
 - [Getting Started](#getting-started)
